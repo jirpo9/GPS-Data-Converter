@@ -33,8 +33,7 @@ def convert_csv_to_xlsx(input_file, output_file=None):
     
     # Určení názvu výstupního souboru, pokud není zadán
     if output_file is None:
-        base_name = os.path.splitext(os.path.basename(input_file))[0]
-        output_file = f"{base_name}_upraveno_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xlsx"
+        output_file = "output_file.xlsx"
     
     try:
         # Načtení CSV souboru
