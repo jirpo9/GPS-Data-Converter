@@ -1,18 +1,18 @@
-# Ignore virtual environments
+# Ignorovat virtuální prostředí
 venv/
 
-# Ignore Python cache files
+# Ignorovat soubory cache Pythonu
 __pycache__/
 *.pyc
 
-# Ignore logs and temporary files
+# Ignorovat logy a dočasné soubory
 *.log
 *.tmp
 
-# Ignore editor settings
+# Ignorovat nastavení editoru
 .vscode/
 .idea/
 
-# Ignore system files
+# Ignorovat systémové soubory
 .DS_Store
 Thumbs.db
