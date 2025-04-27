@@ -99,7 +99,7 @@ Pro spuštění tohoto nástroje potřebujete:
 
 CSV soubor exportovaný z platformy OpenField musí minimálně obsahovat specifikované datové sloupce, přičemž každý řádek reprezentuje jeden jednotlivý vzorek měření. Vzhledem k tomu, že akviziční frekvence je nastavena na 10 Hz (tj. 10 vzorků za sekundu), lze očekávat, že dvouhodinový kontinuální záznam bude obsahovat přibližně 72 000 řádků datových záznamů. Tento rozsah odpovídá standardním požadavkům na vysokofrekvenční longitudinální sběr dat v aplikacích sledování sportovního výkonu
 
-![input_file](images/inout_file.png)
+![input_file](images/input_file.png)
 
 
 ## Struktura výstupních dat
